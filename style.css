@@ -1,0 +1,36 @@
+h1{font-size: 55px; 
+  font-weight: bold; 
+  color: red;
+letter-spacing:5px; 
+  border: 2px solid yellow;
+  border: 2px solid yellow;
+  text-align: center; 
+  background-color: lightyellow} 
+
+* {font-family: arial;}
+
+ul{display:flex; 
+  justify-content:center; 
+  gap:50px;}
+
+a{color: black; 
+  font-size: 13px;
+  letter-spacing:10px;
+  text decoration: underline}
+
+table{width: 100%; 
+  color: purple;
+  background-color: lightblue;
+  border: 3px solid black;
+border-collapse: collapse;
+  text-align: center;
+  margin: 30px;
+  margin-left: auto;
+  margin-right: auto;
+height: 100px;
+width: 50%}
+
+#media{ max-width: 350px; 
+  margin: 350px auto;
+padding:60px;
+height: 20px;}
