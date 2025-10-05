@@ -30,6 +30,10 @@ border-collapse: collapse;
 height: 100px;
 width: 50%}
 
+th, td {
+  border: 2px solid black;
+}
+
 #media{ max-width: 350px; 
   margin: 350px auto;
 padding:60px;
