@@ -40,5 +40,4 @@ padding:60px;
 height: 20px;}
 
 
-#332211 {
-  width: 5%; height: auto; display: block;}
+#332211{ width: 5% !important ; height: auto !important ; display: block;}
